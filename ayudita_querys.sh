@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BIN="./bin/query_control"
+BIN="./home/utnso/tp-2025-2c-Here-we-go-again/query_control//bin/query_control"
 
 echo "Levantando 100 queries en 4 grupos..."
 
