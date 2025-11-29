@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Parámetro opcional: cantidad de líneas del historial
-LINEAS=${1:-10000}
+LINEAS=${1:-1000000}
 
 CONFIG="$HOME/.tmux.conf"
 
